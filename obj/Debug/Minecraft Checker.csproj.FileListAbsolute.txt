@@ -1,0 +1,13 @@
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\bin\Debug\Minecraft Checker.exe.config
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\bin\Debug\Minecraft Checker.exe
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\bin\Debug\Minecraft Checker.pdb
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\bin\Debug\Colorful.Console.dll
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\bin\Debug\Leaf.xNet.dll
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\bin\Debug\xNet.dll
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\obj\Debug\Minecraft Checker.csproj.AssemblyReference.cache
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\obj\Debug\Minecraft_Checker.Properties.Resources.resources
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\obj\Debug\Minecraft Checker.csproj.GenerateResource.cache
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\obj\Debug\Minecraft Checker.csproj.CoreCompileInputs.cache
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\obj\Debug\Minecraft Checker.csproj.CopyComplete
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\obj\Debug\Minecraft Checker.exe
+C:\Users\PANLI\source\repos\Minecraft Checker\Minecraft Checker\obj\Debug\Minecraft Checker.pdb
